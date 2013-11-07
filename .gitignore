@@ -6,17 +6,6 @@ Obj/
 UnityGenerated/
 Library/
 
-# ===================================== #
-# Visual Studio / MonoDevelop generated #
-# ===================================== #
-ExportedObj/
-*.svd
-*.userprefs
-*.suo
-*.user
-*.unityproj
-*.booproj
-
 # ============ #
 # OS generated #
 # ============ #
